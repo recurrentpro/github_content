@@ -1,5 +1,5 @@
 # GitHub Tutorials
-Please find out Github description pdf
+### Please find out Github description pdf
 
 Part-1: Introduction : https://youtu.be/p2baLmaxz2w
 
@@ -12,7 +12,8 @@ Part-4: Push file on GitHub via Git :
 
 
 
-Social Media Handles:
+### Social Media Handles:
+
 Facebook: https://www.facebook.com/recurrentlearn/
 
 Twitter: https://twitter.com/recurrentlearn
@@ -21,6 +22,6 @@ Instagram: https://www.instagram.com/recurrent_learning/
 
 Linkedin: https://www.linkedin.com/company/recurrentlearning/
 
-# Stpes:
+### Stpes:
 
 
