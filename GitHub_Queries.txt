@@ -1,0 +1,13 @@
+git --version
+git help config or git config --help
+
+mkdir testing
+cd testing
+
+git init
+git add "test.txt"
+git commit -m "first commit"
+git branch -M main
+git config --global user.username recurrentlearning
+git remote add origin https://github.com/recurrentlearning/github_test_file.git
+git push -u origin main 
