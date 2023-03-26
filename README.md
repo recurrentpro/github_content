@@ -25,5 +25,6 @@ Instagram: https://www.instagram.com/recurrent_learning/
 Linkedin: https://www.linkedin.com/company/recurrentlearning/
 
 ### Stpes:
+Understand The GitHub Process -> Create GitHub Account -> Git Installation -> Push the code on GitHub via Git
 
 
